@@ -1,0 +1,1 @@
+# analise-suicidios-datasus
